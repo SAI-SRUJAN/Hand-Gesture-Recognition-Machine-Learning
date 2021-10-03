@@ -1,0 +1,87 @@
+C:\Users\SAI SRUJAN\documents\visual studio 2017\Projects\Gesture Recognition\Gesture Recognition\bin\Debug\Accord.dll.config
+C:\Users\SAI SRUJAN\documents\visual studio 2017\Projects\Gesture Recognition\Gesture Recognition\bin\Debug\Gesture Recognition.exe.config
+C:\Users\SAI SRUJAN\documents\visual studio 2017\Projects\Gesture Recognition\Gesture Recognition\bin\Debug\Gesture Recognition.exe
+C:\Users\SAI SRUJAN\documents\visual studio 2017\Projects\Gesture Recognition\Gesture Recognition\bin\Debug\Gesture Recognition.pdb
+C:\Users\SAI SRUJAN\documents\visual studio 2017\Projects\Gesture Recognition\Gesture Recognition\bin\Debug\Accord.dll
+C:\Users\SAI SRUJAN\documents\visual studio 2017\Projects\Gesture Recognition\Gesture Recognition\bin\Debug\Accord.Imaging.dll
+C:\Users\SAI SRUJAN\documents\visual studio 2017\Projects\Gesture Recognition\Gesture Recognition\bin\Debug\Accord.MachineLearning.GPL.dll
+C:\Users\SAI SRUJAN\documents\visual studio 2017\Projects\Gesture Recognition\Gesture Recognition\bin\Debug\Accord.Math.Core.dll
+C:\Users\SAI SRUJAN\documents\visual studio 2017\Projects\Gesture Recognition\Gesture Recognition\bin\Debug\Accord.Math.dll
+C:\Users\SAI SRUJAN\documents\visual studio 2017\Projects\Gesture Recognition\Gesture Recognition\bin\Debug\Accord.Statistics.dll
+C:\Users\SAI SRUJAN\documents\visual studio 2017\Projects\Gesture Recognition\Gesture Recognition\bin\Debug\AForge.Controls.dll
+C:\Users\SAI SRUJAN\documents\visual studio 2017\Projects\Gesture Recognition\Gesture Recognition\bin\Debug\AForge.dll
+C:\Users\SAI SRUJAN\documents\visual studio 2017\Projects\Gesture Recognition\Gesture Recognition\bin\Debug\AForge.Imaging.dll
+C:\Users\SAI SRUJAN\documents\visual studio 2017\Projects\Gesture Recognition\Gesture Recognition\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\SAI SRUJAN\documents\visual studio 2017\Projects\Gesture Recognition\Gesture Recognition\bin\Debug\AForge.Video.dll
+C:\Users\SAI SRUJAN\documents\visual studio 2017\Projects\Gesture Recognition\Gesture Recognition\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2010.dll
+C:\Users\SAI SRUJAN\documents\visual studio 2017\Projects\Gesture Recognition\Gesture Recognition\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2012.dll
+C:\Users\SAI SRUJAN\documents\visual studio 2017\Projects\Gesture Recognition\Gesture Recognition\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2013.dll
+C:\Users\SAI SRUJAN\documents\visual studio 2017\Projects\Gesture Recognition\Gesture Recognition\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2015.dll
+C:\Users\SAI SRUJAN\documents\visual studio 2017\Projects\Gesture Recognition\Gesture Recognition\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2017.dll
+C:\Users\SAI SRUJAN\documents\visual studio 2017\Projects\Gesture Recognition\Gesture Recognition\bin\Debug\Emgu.CV.UI.dll
+C:\Users\SAI SRUJAN\documents\visual studio 2017\Projects\Gesture Recognition\Gesture Recognition\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\SAI SRUJAN\documents\visual studio 2017\Projects\Gesture Recognition\Gesture Recognition\bin\Debug\Emgu.CV.World.dll
+C:\Users\SAI SRUJAN\documents\visual studio 2017\Projects\Gesture Recognition\Gesture Recognition\bin\Debug\IPPrototyper.exe
+C:\Users\SAI SRUJAN\documents\visual studio 2017\Projects\Gesture Recognition\Gesture Recognition\bin\Debug\SVM.dll
+C:\Users\SAI SRUJAN\documents\visual studio 2017\Projects\Gesture Recognition\Gesture Recognition\bin\Debug\AForge.Math.dll
+C:\Users\SAI SRUJAN\documents\visual studio 2017\Projects\Gesture Recognition\Gesture Recognition\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\SAI SRUJAN\documents\visual studio 2017\Projects\Gesture Recognition\Gesture Recognition\bin\Debug\ZedGraph.dll
+C:\Users\SAI SRUJAN\documents\visual studio 2017\Projects\Gesture Recognition\Gesture Recognition\bin\Debug\AForge.Imaging.IPPrototyper.dll
+C:\Users\SAI SRUJAN\documents\visual studio 2017\Projects\Gesture Recognition\Gesture Recognition\bin\Debug\Accord.xml
+C:\Users\SAI SRUJAN\documents\visual studio 2017\Projects\Gesture Recognition\Gesture Recognition\bin\Debug\Accord.Imaging.xml
+C:\Users\SAI SRUJAN\documents\visual studio 2017\Projects\Gesture Recognition\Gesture Recognition\bin\Debug\Accord.MachineLearning.GPL.xml
+C:\Users\SAI SRUJAN\documents\visual studio 2017\Projects\Gesture Recognition\Gesture Recognition\bin\Debug\Accord.Math.xml
+C:\Users\SAI SRUJAN\documents\visual studio 2017\Projects\Gesture Recognition\Gesture Recognition\bin\Debug\Accord.Math.Core.xml
+C:\Users\SAI SRUJAN\documents\visual studio 2017\Projects\Gesture Recognition\Gesture Recognition\bin\Debug\Accord.Statistics.xml
+C:\Users\SAI SRUJAN\documents\visual studio 2017\Projects\Gesture Recognition\Gesture Recognition\bin\Debug\AForge.xml
+C:\Users\SAI SRUJAN\documents\visual studio 2017\Projects\Gesture Recognition\Gesture Recognition\bin\Debug\AForge.Imaging.xml
+C:\Users\SAI SRUJAN\documents\visual studio 2017\Projects\Gesture Recognition\Gesture Recognition\bin\Debug\AForge.Video.xml
+C:\Users\SAI SRUJAN\documents\visual studio 2017\Projects\Gesture Recognition\Gesture Recognition\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\SAI SRUJAN\documents\visual studio 2017\Projects\Gesture Recognition\Gesture Recognition\bin\Debug\Emgu.CV.UI.xml
+C:\Users\SAI SRUJAN\documents\visual studio 2017\Projects\Gesture Recognition\Gesture Recognition\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\SAI SRUJAN\documents\visual studio 2017\Projects\Gesture Recognition\Gesture Recognition\bin\Debug\Emgu.CV.World.xml
+C:\Users\SAI SRUJAN\documents\visual studio 2017\Projects\Gesture Recognition\Gesture Recognition\bin\Debug\AForge.Math.xml
+C:\Users\SAI SRUJAN\documents\visual studio 2017\Projects\Gesture Recognition\Gesture Recognition\obj\Debug\Gesture Recognition.csprojResolveAssemblyReference.cache
+C:\Users\SAI SRUJAN\documents\visual studio 2017\Projects\Gesture Recognition\Gesture Recognition\obj\Debug\Gesture Recognition.csproj.Gesture Recognition.exe.config
+C:\Users\SAI SRUJAN\documents\visual studio 2017\Projects\Gesture Recognition\Gesture Recognition\obj\Debug\Gesture_Recognition.Form1.resources
+C:\Users\SAI SRUJAN\documents\visual studio 2017\Projects\Gesture Recognition\Gesture Recognition\obj\Debug\Gesture_Recognition.Properties.Resources.resources
+C:\Users\SAI SRUJAN\documents\visual studio 2017\Projects\Gesture Recognition\Gesture Recognition\obj\Debug\Gesture Recognition.csproj.GenerateResource.Cache
+C:\Users\SAI SRUJAN\documents\visual studio 2017\Projects\Gesture Recognition\Gesture Recognition\obj\Debug\Gesture Recognition.exe
+C:\Users\SAI SRUJAN\documents\visual studio 2017\Projects\Gesture Recognition\Gesture Recognition\obj\Debug\Gesture Recognition.pdb
+D:\Work\College\Project\Gesture Recognition\Gesture Recognition\Gesture Recognition\Gesture Recognition\bin\Debug\Accord.dll.config
+D:\Work\College\Project\Gesture Recognition\Gesture Recognition\Gesture Recognition\Gesture Recognition\bin\Debug\Gesture Recognition.exe.config
+D:\Work\College\Project\Gesture Recognition\Gesture Recognition\Gesture Recognition\Gesture Recognition\bin\Debug\Gesture Recognition.exe
+D:\Work\College\Project\Gesture Recognition\Gesture Recognition\Gesture Recognition\Gesture Recognition\bin\Debug\Gesture Recognition.pdb
+D:\Work\College\Project\Gesture Recognition\Gesture Recognition\Gesture Recognition\Gesture Recognition\bin\Debug\Accord.dll
+D:\Work\College\Project\Gesture Recognition\Gesture Recognition\Gesture Recognition\Gesture Recognition\bin\Debug\Accord.Imaging.dll
+D:\Work\College\Project\Gesture Recognition\Gesture Recognition\Gesture Recognition\Gesture Recognition\bin\Debug\Accord.MachineLearning.GPL.dll
+D:\Work\College\Project\Gesture Recognition\Gesture Recognition\Gesture Recognition\Gesture Recognition\bin\Debug\Accord.Math.Core.dll
+D:\Work\College\Project\Gesture Recognition\Gesture Recognition\Gesture Recognition\Gesture Recognition\bin\Debug\Accord.Math.dll
+D:\Work\College\Project\Gesture Recognition\Gesture Recognition\Gesture Recognition\Gesture Recognition\bin\Debug\Accord.Statistics.dll
+D:\Work\College\Project\Gesture Recognition\Gesture Recognition\Gesture Recognition\Gesture Recognition\bin\Debug\AForge.Math.dll
+D:\Work\College\Project\Gesture Recognition\Gesture Recognition\Gesture Recognition\Gesture Recognition\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+D:\Work\College\Project\Gesture Recognition\Gesture Recognition\Gesture Recognition\Gesture Recognition\bin\Debug\ZedGraph.dll
+D:\Work\College\Project\Gesture Recognition\Gesture Recognition\Gesture Recognition\Gesture Recognition\bin\Debug\AForge.Imaging.IPPrototyper.dll
+D:\Work\College\Project\Gesture Recognition\Gesture Recognition\Gesture Recognition\Gesture Recognition\bin\Debug\Accord.xml
+D:\Work\College\Project\Gesture Recognition\Gesture Recognition\Gesture Recognition\Gesture Recognition\bin\Debug\Accord.Imaging.xml
+D:\Work\College\Project\Gesture Recognition\Gesture Recognition\Gesture Recognition\Gesture Recognition\bin\Debug\Accord.MachineLearning.GPL.xml
+D:\Work\College\Project\Gesture Recognition\Gesture Recognition\Gesture Recognition\Gesture Recognition\bin\Debug\Accord.Math.xml
+D:\Work\College\Project\Gesture Recognition\Gesture Recognition\Gesture Recognition\Gesture Recognition\bin\Debug\Accord.Math.Core.xml
+D:\Work\College\Project\Gesture Recognition\Gesture Recognition\Gesture Recognition\Gesture Recognition\bin\Debug\Accord.Statistics.xml
+D:\Work\College\Project\Gesture Recognition\Gesture Recognition\Gesture Recognition\Gesture Recognition\bin\Debug\AForge.xml
+D:\Work\College\Project\Gesture Recognition\Gesture Recognition\Gesture Recognition\Gesture Recognition\bin\Debug\AForge.Imaging.xml
+D:\Work\College\Project\Gesture Recognition\Gesture Recognition\Gesture Recognition\Gesture Recognition\bin\Debug\AForge.Video.xml
+D:\Work\College\Project\Gesture Recognition\Gesture Recognition\Gesture Recognition\Gesture Recognition\bin\Debug\AForge.Video.DirectShow.xml
+D:\Work\College\Project\Gesture Recognition\Gesture Recognition\Gesture Recognition\Gesture Recognition\bin\Debug\Emgu.CV.UI.xml
+D:\Work\College\Project\Gesture Recognition\Gesture Recognition\Gesture Recognition\Gesture Recognition\bin\Debug\Emgu.CV.UI.GL.xml
+D:\Work\College\Project\Gesture Recognition\Gesture Recognition\Gesture Recognition\Gesture Recognition\bin\Debug\Emgu.CV.World.xml
+D:\Work\College\Project\Gesture Recognition\Gesture Recognition\Gesture Recognition\Gesture Recognition\bin\Debug\AForge.Math.xml
+D:\Work\College\Project\Gesture Recognition\Gesture Recognition\Gesture Recognition\Gesture Recognition\obj\Debug\Gesture Recognition.csprojAssemblyReference.cache
+D:\Work\College\Project\Gesture Recognition\Gesture Recognition\Gesture Recognition\Gesture Recognition\obj\Debug\Gesture Recognition.exe.config
+D:\Work\College\Project\Gesture Recognition\Gesture Recognition\Gesture Recognition\Gesture Recognition\obj\Debug\Gesture_Recognition.Form1.resources
+D:\Work\College\Project\Gesture Recognition\Gesture Recognition\Gesture Recognition\Gesture Recognition\obj\Debug\Gesture_Recognition.Properties.Resources.resources
+D:\Work\College\Project\Gesture Recognition\Gesture Recognition\Gesture Recognition\Gesture Recognition\obj\Debug\Gesture Recognition.csproj.GenerateResource.cache
+D:\Work\College\Project\Gesture Recognition\Gesture Recognition\Gesture Recognition\Gesture Recognition\obj\Debug\Gesture Recognition.csproj.CoreCompileInputs.cache
+D:\Work\College\Project\Gesture Recognition\Gesture Recognition\Gesture Recognition\Gesture Recognition\obj\Debug\Gesture Recognition.csproj.CopyComplete
+D:\Work\College\Project\Gesture Recognition\Gesture Recognition\Gesture Recognition\Gesture Recognition\obj\Debug\Gesture Recognition.exe
+D:\Work\College\Project\Gesture Recognition\Gesture Recognition\Gesture Recognition\Gesture Recognition\obj\Debug\Gesture Recognition.pdb
